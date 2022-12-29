@@ -1,0 +1,11 @@
+**/*.docx
+**/*.js
+**/*.css
+**/*.png
+**/*.jpg
+**/*gif
+**/*.zip
+**/*.bluej
+**/*.class
+**/*.ctxt
+**/package-list
