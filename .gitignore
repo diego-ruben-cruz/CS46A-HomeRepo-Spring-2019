@@ -9,3 +9,7 @@
 **/*.class
 **/*.ctxt
 **/package-list
+*.out
+*.RSA
+*.SF
+*.MF
